@@ -1,16 +1,10 @@
 # internbyte
+This is a Flutter Project made by Utkarsh And Team for the Technex 2023 Appathon competition.
 
-A new Flutter project.
+Team Members:
+Anvesh Dange , AI Dept.
+Utkarsh Sinha , AI Dept.
+Tejas Awari, AI Dept.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Problem Statement : 
+ "Build an app that can suggest internship programs to students"
